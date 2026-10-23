@@ -1,4 +1,5 @@
 <resources>
     <string name="app_name">PAM_P6_prak</string>
     <string name="submit"> Sumbit </string>
+    <string name="back">Back</string>
 </resources>
